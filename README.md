@@ -22,6 +22,6 @@ In order to join the community, we must first confirm that you are, in fact, a g
 
 5. You should be automatically added and redirected to the GitHub Government community. You now have access to and can participate in the discussions available at [github.com/government](https://github.com/government).
 
-## Questions
+## Questions 
 
 *If you have any questions or have trouble confirming your identity above, please email [government@github.com](mailto:government@github.com).*
